@@ -4,11 +4,12 @@
   
  <ul>
   <li>
-    <a href='/Resume/MyResume.pdf' />
+    <a href='/Resume/MyResume.pdf' >رزومه</a>
     </li>
   
   </ul>
-- [رزومه]()
+
+
 
 
 </div>
