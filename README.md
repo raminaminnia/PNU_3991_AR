@@ -6,7 +6,9 @@
   <li>
     <a href='/Resume/MyResume.pdf' >رزومه</a>
     </li>
-  
+  <li>
+    <a href='/Statement of Purpose/Statement of Purpose.pdf' >انگیزه نامه</a>
+    </li>
   </ul>
 
 
