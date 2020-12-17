@@ -11,7 +11,10 @@
     </li>
   </ul>
 
-
+ <li>
+    <a href='/Certificate/cert-1024-20480032.pdf' >گواهی نامه جاوا اسکریپت</a>
+    </li>
+  </ul>
 
 
 </div>
