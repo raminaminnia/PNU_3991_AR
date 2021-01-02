@@ -7,7 +7,7 @@
     <a href='/Resume/MyResume.pdf' >رزومه</a>
     </li>
   <li>
-    <a href='/Statement of Purpose/Statement of Purpose.pdf' >انگیزه نامه</a>
+    <a href='https://github.com/raminaminnia/PNU_3991_AR/edit/main/Statement of Purpose/Statement of Purpose.pdf' >انگیزه نامه</a>
     </li>
  
  <li>
