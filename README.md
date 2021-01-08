@@ -16,16 +16,19 @@
  <li>
     <a href='https://github.com/raminaminnia/PNU_3991_AR/edit/main/Certificate/cert-1024-20480032.pdf' >گواهی نامه جاوا اسکریپت</a>
     </li>
-  </ul>
+ 
 
 <li>
-    <a href='#' >روز و ساعت ارائه دروس</a>
+    <a href='#courses' >روز و ساعت ارائه دروس</a>
    </li>
-   
+  </ul>  
   <hr>
   
   <h2>
-روز و ساعت ارائه دروس</h2>
+	<a name="courses">
+روز و ساعت ارائه دروس
+<a>
+</h2>
 <div dir="ltr">
 <table width="100%">
   <tbody><tr>
@@ -74,7 +77,8 @@
     <th></th>
     <th></th>
      <th width="132">
-		الگوريتم هاي پيشرفته 1115025_01</th>
+		الگوريتم هاي پيشرفته 
+	   <p>  1115025_01</th>
     <th width="51">چهارشنبه</th>
   </tr>
    <tr>
