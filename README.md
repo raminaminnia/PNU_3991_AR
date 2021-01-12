@@ -23,7 +23,7 @@
    </li>
    
    <li>
-    <a href='http://mollasadraschool.ir/files/BinaryMaxHeap.html' target=_blank>
+    <a href='http://mollasadraschool.ir/files/BinaryMaxHeap.html' target='_blank'>
 	    پروژه انفرادی درس الگوریتم پیشرفته
 	    Binary (Max) Heap
 	</a>
